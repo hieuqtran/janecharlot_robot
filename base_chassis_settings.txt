@@ -1,0 +1,8 @@
+Estimated print time: 1d 0h 34m
+Material usage: 68.30m (169g)
+Printer: Zortrax M200
+Profile: mechanical parts
+Material: Z-HIPS
+Layer: 0.09 mm
+Quality: High
+Infill: 70%
