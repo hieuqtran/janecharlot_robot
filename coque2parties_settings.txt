@@ -1,0 +1,8 @@
+Estimated print time: 23h 52m
+Material usage: 117.75m (280g)
+Printer: Zortrax M200
+Profile: large prints - economy mode
+Material: Z-ABS
+Layer: 0.29 mm
+Quality: High
+Infill: 10%
